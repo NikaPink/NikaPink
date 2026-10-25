@@ -7,7 +7,7 @@
 Étudiant en **BUT Informatique** à l'IUT de Lens.
 Je cherche un **stage d'avril 2027**, de 8 à 10 semaines.
 
-**Portfolio** → [youssefpirmiet.dev](https://youssefpirmiet.dev) — un trou noir rendu en temps réel (WebGL), dans lequel on tombe en scrollant.
+**Portfolio** → [youssefpirmiet.dev](https://youssefpirmiet.dev)
 
 #### Projets
 
@@ -20,7 +20,15 @@ Je cherche un **stage d'avril 2027**, de 8 à 10 semaines.
 
 #### Outils
 
-`Kotlin` `Java` `PHP` `SQL` `TypeScript` `Jetpack Compose` `JavaFX` `Laravel` `Astro` `Git`
+![Kotlin](https://img.shields.io/badge/Kotlin-0a0806?style=flat-square&logo=kotlin&logoColor=e8a24e&labelColor=0a0806&color=0a0806)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0a0806?style=flat-square&logo=jetpackcompose&logoColor=e8a24e)
+![Java](https://img.shields.io/badge/Java-0a0806?style=flat-square&logo=openjdk&logoColor=e8a24e)
+![PHP](https://img.shields.io/badge/PHP-0a0806?style=flat-square&logo=php&logoColor=e8a24e)
+![Laravel](https://img.shields.io/badge/Laravel-0a0806?style=flat-square&logo=laravel&logoColor=e8a24e)
+![SQL](https://img.shields.io/badge/SQL-0a0806?style=flat-square&logo=sqlite&logoColor=e8a24e)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0806?style=flat-square&logo=typescript&logoColor=e8a24e)
+![Astro](https://img.shields.io/badge/Astro-0a0806?style=flat-square&logo=astro&logoColor=e8a24e)
+![Git](https://img.shields.io/badge/Git-0a0806?style=flat-square&logo=git&logoColor=e8a24e)
 
 ---
 
