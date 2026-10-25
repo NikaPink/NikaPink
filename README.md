@@ -1,16 +1,27 @@
-## Hi there 👋
+<a href="https://youssefpirmiet.dev">
+  <img src="https://youssefpirmiet.dev/og-fr.jpg" alt="Youssef Pirmiet — portfolio" width="100%">
+</a>
 
-<!--
-**NikaPink/NikaPink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Youssef Pirmiet
 
-Here are some ideas to get you started:
+Étudiant en **BUT Informatique** à l'IUT de Lens.
+Je cherche un **stage d'avril 2027**, de 8 à 10 semaines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Portfolio** → [youssefpirmiet.dev](https://youssefpirmiet.dev) — un trou noir rendu en temps réel (WebGL), dans lequel on tombe en scrollant.
+
+#### Projets
+
+| | | |
+|---|---|---|
+| **Hexis** | Application Android de suivi de musculation, avec une couche RPG prévue | Kotlin · Jetpack Compose · Room |
+| **Space Invaders** | Jeu en équipe, rôle de chef de projet : branches, merges, intégration | Java · JavaFX · Git |
+| **OtakuList** | Application web de gestion d'animés et de mangas, conception de la base de données | PHP · Laravel · SQL |
+| **Portfolio** | Shader de trou noir en relativité générale, animations au scroll | Astro · GSAP · WebGL |
+
+#### Outils
+
+`Kotlin` `Java` `PHP` `SQL` `TypeScript` `Jetpack Compose` `JavaFX` `Laravel` `Astro` `Git`
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/youssef-pirmiet/) · [Portfolio](https://youssefpirmiet.dev) · [Me contacter](https://youssefpirmiet.dev/#contact)
