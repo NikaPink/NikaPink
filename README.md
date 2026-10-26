@@ -17,7 +17,7 @@ Je cherche un **stage d'avril 2027**, de 8 à 10 semaines.
 | **Space Invaders** | Jeu en équipe, rôle de chef de projet : branches, merges, intégration | Java · JavaFX · Git |
 | **OtakuList** | Application web de gestion d'animés et de mangas, conception de la base de données | PHP · Laravel · SQL |
 | **Portfolio** | Shader de trou noir en relativité générale, animations au scroll | Astro · GSAP · WebGL |
-| **Fractalens** | Application de Generateur de fractal | Java . Git |
+| [**Fractalens**](https://github.com/NikaPink/Fractalens) | Bibliothèque Java de génération de fractales, en équipe autour des design patterns | Java · Gradle · Git |
 
 #### Outils
 
