@@ -51,7 +51,7 @@ Looking for an **internship starting April 2027**, 8 to 10 weeks.
 [LinkedIn](https://www.linkedin.com/in/youssef-pirmiet/) · [Portfolio](https://youssefpirmiet.dev) · [Contact me](https://youssefpirmiet.dev/#contact)
 
 <details id="francais">
-<summary><b>🇫🇷 Version française</b></summary>
+<summary><b>Version française</b></summary>
 
 <br>
 
