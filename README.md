@@ -11,7 +11,7 @@ Je cherche un **stage d'avril 2027**, de 8 à 10 semaines.
 
 #### Projets
 
-| | | |
+| Projet | Description | Stack |
 |---|---|---|
 | **Hexis** | Application Android de suivi de musculation, avec une couche RPG prévue | Kotlin · Jetpack Compose · Room |
 | **Space Invaders** | Jeu en équipe, rôle de chef de projet : branches, merges, intégration | Java · JavaFX · Git |
@@ -19,19 +19,31 @@ Je cherche un **stage d'avril 2027**, de 8 à 10 semaines.
 | **Portfolio** | Shader de trou noir en relativité générale, animations au scroll | Astro · GSAP · WebGL |
 | [**Fractalens**](https://github.com/NikaPink/Fractalens) | Bibliothèque Java de génération de fractales, en équipe autour des design patterns | Java · Gradle · Git |
 
-#### Outils
+#### Langages
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0a0806?style=flat-square&logo=kotlin&logoColor=e8a24e&labelColor=0a0806&color=0a0806)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0a0806?style=flat-square&logo=jetpackcompose&logoColor=e8a24e)
 ![Java](https://img.shields.io/badge/Java-0a0806?style=flat-square&logo=openjdk&logoColor=e8a24e)
 ![PHP](https://img.shields.io/badge/PHP-0a0806?style=flat-square&logo=php&logoColor=e8a24e)
-![Laravel](https://img.shields.io/badge/Laravel-0a0806?style=flat-square&logo=laravel&logoColor=e8a24e)
 ![SQL](https://img.shields.io/badge/SQL-0a0806?style=flat-square&logo=sqlite&logoColor=e8a24e)
-![Git](https://img.shields.io/badge/Git-0a0806?style=flat-square&logo=git&logoColor=e8a24e)
 ![Python](https://img.shields.io/badge/Python-0a0806?style=flat-square&logo=python&logoColor=e8a24e)
 ![Bash](https://img.shields.io/badge/Bash-0a0806?style=flat-square&logo=gnubash&logoColor=e8a24e)
 ![HTML](https://img.shields.io/badge/HTML-0a0806?style=flat-square&logo=html5&logoColor=e8a24e)
 ![CSS](https://img.shields.io/badge/CSS-0a0806?style=flat-square&logo=css&logoColor=e8a24e)
+![Kotlin](https://img.shields.io/badge/Kotlin-0a0806?style=flat-square&logo=kotlin&logoColor=e8a24e)
+
+#### Frameworks
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0a0806?style=flat-square&logo=jetpackcompose&logoColor=e8a24e)
+![Laravel](https://img.shields.io/badge/Laravel-0a0806?style=flat-square&logo=laravel&logoColor=e8a24e)
+![JavaFX](https://img.shields.io/badge/JavaFX-0a0806?style=flat-square&logo=openjdk&logoColor=e8a24e)
+
+#### Outils
+
+![Git](https://img.shields.io/badge/Git-0a0806?style=flat-square&logo=git&logoColor=e8a24e)
+![GitLab](https://img.shields.io/badge/GitLab-0a0806?style=flat-square&logo=gitlab&logoColor=e8a24e)
+![Linux](https://img.shields.io/badge/Linux-0a0806?style=flat-square&logo=linux&logoColor=e8a24e)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0a0806?style=flat-square&logo=intellijidea&logoColor=e8a24e)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0a0806?style=flat-square&logo=androidstudio&logoColor=e8a24e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0806?style=flat-square&logo=postgresql&logoColor=e8a24e)
 
 ---
 
