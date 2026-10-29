@@ -2,6 +2,8 @@
   <img src="banniere-github.jpg" alt="Youssef Pirmiet — portfolio" width="100%">
 </a>
 
+<p align="right"><a href="#francais">🇫🇷 Version française</a></p>
+
 ### Youssef Pirmiet
 
 Second-year **Computer Science (BUT Informatique)** student at IUT de Lens, France.
