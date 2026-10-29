@@ -1,5 +1,5 @@
 <a href="https://youssefpirmiet.dev">
-  <img src="https://youssefpirmiet.dev/og-fr.jpg" alt="Youssef Pirmiet — portfolio" width="100%">
+  <img src="[https://youssefpirmiet.dev/og-fr.jpg](https://github.com/user-attachments/assets/270a0711-e380-4336-96a0-9a5542c2e6bd)" alt="Youssef Pirmiet — portfolio" width="100%">
 </a>
 
 ### Youssef Pirmiet
