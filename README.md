@@ -2,7 +2,7 @@
   <img src="banniere-github.jpg" alt="Youssef Pirmiet — portfolio" width="100%">
 </a>
 
-<p align="right"><a href="#francais"FR Version française</a></p>
+<p align="right"><a href="#francais">FR Version française</a></p>
 
 ### Youssef Pirmiet
 
