@@ -2,7 +2,7 @@
   <img src="banniere-github.jpg" alt="Youssef Pirmiet — portfolio" width="100%">
 </a>
 
-<p align="right"><a href="#francais">🇫🇷 Version française</a></p>
+<p align="right"><a href="#francais"FR Version française</a></p>
 
 ### Youssef Pirmiet
 
@@ -17,8 +17,8 @@ Looking for an **internship starting April 2027**, 8 to 10 weeks.
 |---|---|---|
 | **Hexis** | Android gym-tracking app, with an RPG progression layer planned | Kotlin · Jetpack Compose · Room |
 | **Space Invaders** | Space Invaders game built with JavaFX | Java · JavaFX · Git |
-| **OtakuList** | College project: a web app for managing anime and manga | PHP · Laravel · SQL |
-| [**Fractalens**](https://github.com/NikaPink/Fractalens) | Java library for generating fractals, developed as a team using design patterns | Java · Gradle · Git |
+| **OtakuList** |  University project: a web app for managing anime and manga | PHP · Laravel · SQL |
+| [**Fractalens**](https://github.com/NikaPink/Fractalens) | Team project: a CLI app that renders fractal images and animations, built around design patterns | Java · Gradle · Git |
 
 #### Languages
 
@@ -55,14 +55,10 @@ Looking for an **internship starting April 2027**, 8 to 10 weeks.
 
 <br>
 
-<a href="https://youssefpirmiet.dev">
-  <img src="banniere-github.jpg" alt="Youssef Pirmiet — portfolio" width="100%">
-</a>
-
 ### Youssef Pirmiet
 
-Étudiant en **BUT Informatique** à l'IUT de Lens.
-Je cherche un **stage d'avril 2027**, de 8 à 10 semaines.
+Étudiant en 2e année de BUT Informatique à l'IUT de Lens.
+Je cherche un **stage à partir d'avril 2027**, de 8 à 10 semaines.
 
 **Portfolio** → [youssefpirmiet.dev](https://youssefpirmiet.dev)
 
@@ -73,7 +69,7 @@ Je cherche un **stage d'avril 2027**, de 8 à 10 semaines.
 | **Hexis** | Application Android de suivi de musculation, avec une couche RPG prévue | Kotlin · Jetpack Compose · Room |
 | **Space Invaders** | Jeu Space Invaders réalisé avec JavaFX | Java · JavaFX · Git |
 | **OtakuList** | Projet universitaire, application web de gestion d'animés et de mangas | PHP · Laravel · SQL |
-| [**Fractalens**](https://github.com/NikaPink/Fractalens) | Bibliothèque Java de génération de fractales, en équipe autour des design patterns | Java · Gradle · Git |
+| [**Fractalens**](https://github.com/NikaPink/Fractalens) | Projet en équipe de 4 : application en ligne de commande qui génère des images et animations de fractales, autour des design patterns | Java · Gradle · Git |
 
 #### Langages
 
