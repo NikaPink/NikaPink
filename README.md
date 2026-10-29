@@ -1,5 +1,5 @@
 <a href="https://youssefpirmiet.dev">
-  <img src="(banniere-github.jpg)" alt="Youssef Pirmiet — portfolio" width="100%">
+  <img src="banniere-github.jpg" alt="Youssef Pirmiet — portfolio" width="100%">
 </a>
 
 ### Youssef Pirmiet
@@ -27,9 +27,11 @@ Je cherche un **stage d'avril 2027**, de 8 à 10 semaines.
 ![PHP](https://img.shields.io/badge/PHP-0a0806?style=flat-square&logo=php&logoColor=e8a24e)
 ![Laravel](https://img.shields.io/badge/Laravel-0a0806?style=flat-square&logo=laravel&logoColor=e8a24e)
 ![SQL](https://img.shields.io/badge/SQL-0a0806?style=flat-square&logo=sqlite&logoColor=e8a24e)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0806?style=flat-square&logo=typescript&logoColor=e8a24e)
-![Astro](https://img.shields.io/badge/Astro-0a0806?style=flat-square&logo=astro&logoColor=e8a24e)
 ![Git](https://img.shields.io/badge/Git-0a0806?style=flat-square&logo=git&logoColor=e8a24e)
+![Python](https://img.shields.io/badge/Python-0a0806?style=flat-square&logo=python&logoColor=e8a24e)
+![Bash](https://img.shields.io/badge/Bash-0a0806?style=flat-square&logo=gnubash&logoColor=e8a24e)
+![HTML](https://img.shields.io/badge/HTML-0a0806?style=flat-square&logo=html5&logoColor=e8a24e)
+![CSS](https://img.shields.io/badge/CSS-0a0806?style=flat-square&logo=css&logoColor=e8a24e)
 
 ---
 
