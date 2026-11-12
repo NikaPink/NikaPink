@@ -15,7 +15,8 @@ Looking for an **internship starting April 2027**, 8 to 10 weeks.
 
 | Project | Description | Stack |
 |---|---|---|
-| **Hexis** | Android gym-tracking app, with an RPG progression layer planned | Kotlin · Jetpack Compose · Room |
+| [**Hexis**](https://github.com/NikaPink/Hexis) | Android gym-tracking app, with an RPG progression layer planned WIP | Kotlin · Jetpack Compose · Room |
+| [**CareerManager**](https://github.com/NikaPink/CareerManager) | A web app to manage intership application | Laravel · PHP · HTML|
 | **Space Invaders** | Space Invaders game built with JavaFX | Java · JavaFX · Git |
 | **OtakuList** |  University project: a web app for managing anime and manga | PHP · Laravel · SQL |
 | [**Fractalens**](https://github.com/NikaPink/Fractalens) | Team project: a CLI app that renders fractal images and animations, built around design patterns | Java · Gradle · Git |
