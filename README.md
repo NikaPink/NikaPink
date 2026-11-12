@@ -67,7 +67,8 @@ Je cherche un **stage à partir d'avril 2027**, de 8 à 10 semaines.
 
 | Projet | Description | Stack |
 |---|---|---|
-| **Hexis** | Application Android de suivi de musculation, avec une couche RPG prévue | Kotlin · Jetpack Compose · Room |
+| [**Hexis**](https://github.com/NikaPink/Hexis) | Application Android de suivi de musculation, avec une couche RPG prévue | Kotlin · Jetpack Compose · Room |
+| [**CareerManager**](https://github.com/NikaPink/CareerManager) | Une application web pour gérer ses demandes de stages etc. | Laravel · PHP · HTML|
 | **Space Invaders** | Jeu Space Invaders réalisé avec JavaFX | Java · JavaFX · Git |
 | **OtakuList** | Projet universitaire, application web de gestion d'animés et de mangas | PHP · Laravel · SQL |
 | [**Fractalens**](https://github.com/NikaPink/Fractalens) | Projet en équipe de 4 : application en ligne de commande qui génère des images et animations de fractales, autour des design patterns | Java · Gradle · Git |
